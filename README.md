@@ -1,3 +1,3 @@
 # Docker build for my GPodder sync server
 
-For https://github.com/altendorfme/gpodder-server
+With https://github.com/gpodder/mygpo
