@@ -1,0 +1,3 @@
+[submodule "gpodder-server"]
+	path = gpodder-server
+	url = https://github.com/bohwaz/micro-gpodder-server
